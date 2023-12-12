@@ -19,6 +19,7 @@ public class Student {
 		System.out.println("houseno is"+" "+a.houseno);
 		System.out.println("housename is"+" "+a.housename);
 		System.out.println("pincode is"+" "+a.pincode);
+		System.out.println("hello");
 	}
 
 	public static void main(String[] args) {
